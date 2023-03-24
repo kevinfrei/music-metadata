@@ -15,3 +15,12 @@ test/_test-issues.ts
 coverage/
 .nyc_output/
 test/samples/zeroes.flac
+
+# Not doing 0-install for this repo, at least for now...
+.yarn/*
+.pnp.*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

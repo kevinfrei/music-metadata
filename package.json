@@ -90,9 +90,9 @@
   },
   "dependencies": {
     "@tokenizer/token": "^0.3.0",
-    "content-type": "^1.0.4",
+    "content-type": "^1.0.5",
     "debug": "^4.3.4",
-    "file-type": "^18.0.0",
+    "file-type": "^18.2.1",
     "media-typer": "^1.1.0",
     "strtok3": "^7.0.0",
     "token-types": "^5.0.1"
@@ -102,29 +102,29 @@
     "@types/chai-as-promised": "^7.1.5",
     "@types/debug": "^4.1.7",
     "@types/file-type": "^10.9.1",
-    "@types/mocha": "^10.0.0",
-    "@types/node": "^18.11.18",
-    "@typescript-eslint/eslint-plugin": "^5.48.0",
-    "@typescript-eslint/parser": "^5.48.1",
-    "c8": "^7.12.0",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.15.7",
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "c8": "^7.13.0",
     "chai": "^4.3.7",
     "chai-as-promised": "^7.1.1",
     "del-cli": "5.0.0",
-    "eslint": "^8.31.0",
-    "eslint-config-prettier": "^8.6.0",
-    "eslint-import-resolver-typescript": "^3.5.2",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsdoc": "^39.6.4",
+    "eslint": "^8.36.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsdoc": "^40.1.0",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-unicorn": "^45.0.2",
+    "eslint-plugin-unicorn": "^46.0.0",
     "mime": "^3.0.0",
-    "mocha": "^10.1.0",
+    "mocha": "^10.2.0",
     "npm-run-all": "^4.1.5",
-    "prettier": "^2.8.2",
+    "prettier": "^2.8.7",
     "remark-cli": "^11.0.0",
     "remark-preset-lint-recommended": "^6.1.2",
     "ts-node": "^10.9.1",
-    "typescript": "^4.9.4"
+    "typescript": "^5.0.2"
   },
   "engines": {
     "node": "^14.13.1 || >=16.0.0"
@@ -136,5 +136,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Borewit/music-metadata/issues"
-  }
+  },
+  "packageManager": "yarn@3.5.0"
 }
